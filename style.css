@@ -742,6 +742,7 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    
 }
 
 .portfolio-row {
@@ -1039,5 +1040,12 @@ h4 {
 @media (max-width: 767px) {
     .bloc-mob-center-text {
         text-align: center;
+    }
+    .portfolio-thumb{
+        max-width: 320px;
+    }
+    #bloc-4-portfolio a{
+        display:flex;
+        justify-content: center;
     }
 }
