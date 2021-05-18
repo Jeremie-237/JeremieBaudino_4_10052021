@@ -369,6 +369,10 @@ a:hover {
     align-items: center;
 }
 
+.col-sm-6{
+    margin-bottom:4%;
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
