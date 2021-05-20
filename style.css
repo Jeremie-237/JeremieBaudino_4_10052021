@@ -373,6 +373,10 @@ a:hover {
     margin-bottom:4%;
 }
 
+.col-sm-4{
+    color:black;
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
@@ -713,6 +717,7 @@ p {
 .social {
     max-width: 400px;
     margin: auto auto auto auto;
+    margin-bottom:4%;
 }
 
 h2 {
